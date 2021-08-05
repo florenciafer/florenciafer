@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Front end developer ...
 - 🌱 I’m currently learning React native...
 
-<div>
+<div  style="display: inline_block">
   <a href="https://github.com/florenciafer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=florenciafer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciafer&layout=compact&langs_count=7&theme=tokyonight"/>
