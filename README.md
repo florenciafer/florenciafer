@@ -1,11 +1,5 @@
 ### Hi all I'm Florencia Fernández 👋
 A passionate Front-End Development 🚀👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Front end developer ...
-- 🌱 I’m currently learning React native...
-
 <div  style="display: inline_block">
   <a href="https://github.com/florenciafer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=florenciafer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -17,7 +11,8 @@ Here are some ideas to get you started:
   <img align="center" alt="flor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="flor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="flor-Csharp" height="30" width="50" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="right" alt="flor-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+ 
+
 </div>
   
   ##
