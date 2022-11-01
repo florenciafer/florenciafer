@@ -1,5 +1,5 @@
 
-### Hi all I'm Florencia Fernández 👋
+### Hi I'm Florencia Fernández 👋
 ### A passionate Front-End Development 🚀👋
 <img align="center" alt="flor-Js" height="400" width="900" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif?format=1000w">
 
@@ -7,7 +7,7 @@
   <a href="https://github.com/florenciafer">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=florenciafer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <span>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciafer&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=florenciafer&layout=compact&langs_count=7&theme=tokyonigh](https://thumbs.dreamstime.com/z/female-software-developer-flat-concept-vector-illustration-development-coding-website-woman-desk-d-cartoon-character-web-216791710.jpg)t"/>
     </span>
   
 </div>
